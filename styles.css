@@ -1,1 +1,28 @@
 /*  your css code here. If applicable */
+h1{
+	text-align:center;
+}
+input{
+	width:95%;
+	height:25px;
+	margin:5px;
+	border-radius:5px;
+	border:1px solid gray;
+}
+button{
+	margin:5px;
+	height:25px;
+	width:150px;
+	background-color:blue;
+	color:white;
+	border-radius:5px;
+}
+tr{
+	width:100%;
+	border:1px solid gray;
+	padding:auto;
+}
+th{
+	width:6%;
+	border-bottom:1px solid gray;
+}
